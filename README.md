@@ -1,8 +1,15 @@
 ## 👋 About Me
 - 18 years.
-- Developer at NodeJS, Lua, Python and C.
+- Developer of NodeJS, Lua, Python and C.
 - Student of Applied and Computational Mathematics at UFS.
 * "May the Force be with you"
+
+## 💻 Projects
+<a href="https://discord.gg/rcF82rYK9r">
+    <img src="https://i.imgur.com/4qN7Xku.png" alt="Fronteira Roleplay" width="80">
+</a>
+
+- Others on my discord profile.
 
 ## 📚 Languages
 <div style="display: inline_block"><br>
@@ -16,4 +23,6 @@
 
 <!--
 ![Static Badge](https://img.shields.io/badge/pyhon-black?logo=python)
+
+[img]https://i.imgur.com/4qN7Xku.png[/img]
 -->
