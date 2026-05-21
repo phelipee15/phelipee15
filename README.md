@@ -46,13 +46,13 @@ phelipe = {
 
 ---
 
-## 🏛️ Liga Acadêmica — LAME-UFS
+## 🏛️ Liga Acadêmica — LAME
 
 <div align="left">
   <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
 </div>
 
-Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME-UFS)**, onde atuo no desenvolvimento de projetos que unem rigor matemático e aplicações práticas em tecnologia e negócios.
+Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
 
 ### 📱 Liga Jovem Sebrae 2025 — EcoRotaAju
 Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo mobile que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
@@ -92,16 +92,6 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipee15&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1b4b&title_color=5b86e5&icon_color=5b86e5&text_color=c9d1d9&locale=pt-br"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipee15&layout=compact&langs_count=7&theme=blue_navy&hide_border=true&bg_color=0d1b4b&title_color=5b86e5&text_color=c9d1d9&locale=pt-br"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=phelipee15&theme=blue-navy&hide_border=true&background=0d1b4b&ring=5b86e5&fire=5b86e5&currStreakLabel=5b86e5&sideLabels=c9d1d9&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak"/>
-</div>
-
 <br/>
 
 <!-- Gráfico de atividade -->
@@ -137,30 +127,30 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="55%">
 
-### 🎮 O que é a SourceScripts?
+### 🏪 Sobre a SourceScripts
 
-Fundada e liderada por **Phelipe Melo**, a **SourceScripts** é uma loja especializada em **scripts e mods para MTA: San Andreas (Multi Theft Auto)** — um dos maiores servidores multiplayer de GTA: SA do Brasil.
+A **Source Scripts** é uma loja especializada no desenvolvimento e comercialização de **resources (mods) para MTA:SA**, consolidada no mercado pela qualidade técnica e compromisso com a comunidade.
 
-Cada produto é desenvolvido com foco em **qualidade, desempenho e experiência de jogo imersiva**, utilizando **Lua** como linguagem principal.
+Nossa principal marca é o **MDPM** — um resource amplamente adotado por servidores automotivos e um dos produtos de maior destaque da loja, reconhecido por seu desempenho e a experiência que entrega.
+
+Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **desempenho e inovação**, com foco em facilitar a gestão de servidores, valorizar a experiência dos jogadores e oferecer soluções confiáveis — transformando ideias em sistemas funcionais.
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="45%">
 
 ### ⚙️ Tecnologia por trás
 
 ```lua
 SourceScripts = {
-  linguagem   = "Lua (MTA:SA)",
-  backend     = "Node.js + Python",
-  banco       = "MySQL / SQLite",
-  foco        = "Scripts de alto desempenho",
-  diferenciais= {
-    "Código otimizado",
-    "UI/UX customizada",
-    "Suporte dedicado",
-    "Atualizações contínuas"
+  linguagem = "Lua (MTA:SA)",
+  backend   = "Node.js",
+  banco     = "MySQL / SQLite",
+  valores   = {
+    "🔬 Inovação constante",
+    "🤝 Compromisso total",
+    "🎨 Identidade própria"
   }
 }
 ```
@@ -171,21 +161,11 @@ SourceScripts = {
 
 <br/>
 
-| 🚀 Produto | 📋 Descrição |
-|---|---|
-| **Scripts de Gameplay** | Sistemas de missões, empregos, economia e progressão de personagem |
-| **Sistemas de Admin** | Painéis de administração completos com logs e gerenciamento |
-| **UIs Customizadas** | Interfaces modernas e responsivas para servidores MTA |
-| **Scripts de Veículos** | Garagem, tuning, concessionárias e sistemas de frota |
-| **Sistemas de Clan/Gang** | Territórios, guerras, ranking e gerenciamento de grupos |
+> *"Transformando ideias em realidade desde 2024."*
 
 <br/>
 
-> *"Transformando servidores MTA em experiências únicas — um script de cada vez."*
-
-<br/>
-
-[![Visitar SourceScripts](https://img.shields.io/badge/🛒%20Ver%20produtos-1a2a6c?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br)
+[![Visitar SourceScripts](https://img.shields.io/badge/🛒%20Ver%20produtos-1a2a6c?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br/shop)
 [![YouTube SourceScripts](https://img.shields.io/badge/▶%20Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
