@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## <img src="https://skillicons.dev/icons?i=github" width="28" align="center"/> Sobre mim
 
 ```python
 phelipe = {
@@ -46,7 +46,7 @@ phelipe = {
 
 ---
 
-## 🏛️ Liga Acadêmica — LAME
+## <img src="https://cdn.simpleicons.org/academia/ffffff" width="24" align="center"/> Liga Acadêmica — LAME
 
 <div align="left">
   <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
@@ -54,24 +54,20 @@ phelipe = {
 
 Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
 
-### 📱 Liga Jovem Sebrae 2025 — EcoRotaAju
+### <img src="https://cdn.simpleicons.org/android/ffffff" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
 Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo mobile que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
 
-### 🗳️ Projeto TRE — Análise de Urnas Eletrônicas
+### <img src="https://cdn.simpleicons.org/databricks/ffffff" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
 Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## <img src="https://cdn.simpleicons.org/htmx/ffffff" width="24" align="center"/> Tecnologias & Ferramentas
 
 <div align="center">
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,lua,c,nodejs" />
 
 ### Áreas de Interesse
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
@@ -82,15 +78,15 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 ![MTA](https://img.shields.io/badge/MTA%3A_SA_Modding-E84142?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
+<br/><br/>
+<img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <img src="https://skillicons.dev/icons?i=github" width="24" align="center"/> Estatísticas do GitHub
 
 <br/>
 
@@ -101,7 +97,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## 🏆 Troféus GitHub
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="24" align="center"/> Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&locale=pt_BR" alt="Troféus GitHub"/>
@@ -109,15 +105,9 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## 💼 SourceScripts
+## <img src="https://cdn.simpleicons.org/lua/ffffff" width="24" align="center"/> SourceScripts
 
 <div align="center">
-
-<a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a2a6c&height=3&width=100%" width="100%"/>
-</a>
-
-<br/>
 
 <a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_sourcescripts.com.br-1a2a6c?style=for-the-badge&logoColor=white&labelColor=0d1b4b" alt="SourceScripts"/>
@@ -129,7 +119,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <tr>
 <td align="left" width="55%">
 
-### 🏪 Sobre a SourceScripts
+### Sobre a SourceScripts
 
 A **Source Scripts** é uma loja especializada no desenvolvimento e comercialização de **resources (mods) para MTA:SA**, consolidada no mercado pela qualidade técnica e compromisso com a comunidade.
 
@@ -140,18 +130,18 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 </td>
 <td align="center" width="45%">
 
-### ⚙️ Tecnologia por trás
+### Tecnologia por trás
 
 ```lua
 SourceScripts = {
-  linguagem = "Lua (MTA:SA)",
-  backend   = "Node.js",
-  banco     = "MySQL / SQLite",
-  valores   = {
-    "🔬 Inovação constante",
-    "🤝 Compromisso total",
-    "🎨 Identidade própria"
-  }
+    linguagem = "Lua (MTA:SA)",
+    backend   = "Node.js",
+    banco     = "MySQL / SQLite",
+    valores   = {
+        "Inovacao constante",
+        "Compromisso total",
+        "Identidade propria"
+    }
 }
 ```
 
@@ -165,8 +155,8 @@ SourceScripts = {
 
 <br/>
 
-[![Visitar SourceScripts](https://img.shields.io/badge/🛒%20Ver%20produtos-1a2a6c?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br/shop)
-[![YouTube SourceScripts](https://img.shields.io/badge/▶%20Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
+[![Visitar SourceScripts](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
+[![YouTube SourceScripts](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
 
