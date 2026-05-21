@@ -5,19 +5,19 @@
 
 <!-- Badges de redes sociais -->
 <div align="center">
-  <a href="https://br.linkedin.com/in/phelipe-melo-matos-a32295298" target="_blank">
+  <a href="https://br.linkedin.com/in/phelipe-melo-matos-a32295298" target="_blank" rel="noopener noreferrer">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/@phelipee15" target="_blank">
+  <a href="https://youtube.com/@phelipee15" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="mailto:phelipemelomatos@gmail.com">
+  <a href="mailto:phelipemelomatos@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/phelipee15" target="_blank">
+  <a href="https://github.com/phelipee15" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://discord.com/users/540257611686346772" target="_blank">
+  <a href="https://discord.com/users/540257611686346772" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 <!-- Visitor counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=phelipee15&color=302b63&style=flat-square&label=Visitantes+no+perfil" alt="Visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=phelipee15&color=1a2a6c&style=flat-square&label=Visitantes+no+perfil" alt="Visitantes"/>
 </div>
 
 ---
@@ -93,20 +93,20 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipee15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipee15&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1b4b&title_color=5b86e5&icon_color=5b86e5&text_color=c9d1d9&locale=pt-br"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipee15&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipee15&layout=compact&langs_count=7&theme=blue_navy&hide_border=true&bg_color=0d1b4b&title_color=5b86e5&text_color=c9d1d9&locale=pt-br"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phelipee15&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=phelipee15&theme=blue-navy&hide_border=true&background=0d1b4b&ring=5b86e5&fire=5b86e5&currStreakLabel=5b86e5&sideLabels=c9d1d9&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <!-- Gráfico de atividade -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipee15&bg_color=0f0c29&color=a78bfa&line=302b63&point=a78bfa&area=true&area_color=302b63&hide_border=true" width="95%" alt="Gráfico de Contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipee15&bg_color=0d1b4b&color=5b86e5&line=3e5abb&point=5b86e5&area=true&area_color=1a2a6c&hide_border=true" width="95%" alt="Gráfico de Contribuições"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&locale=pt_BR" alt="Troféus GitHub"/>
 </div>
 
 ---
@@ -123,9 +123,70 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 <div align="center">
 
-> CEO & Fundador da **[SourceScripts](https://sourcescripts.com.br)** — loja especializada em **mods para MTA (Multi Theft Auto)**, trazendo soluções criativas e scripts de alta qualidade para uma nova experiência de jogo.
+<a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a2a6c&height=3&width=100%" width="100%"/>
+</a>
 
-[![SourceScripts](https://img.shields.io/badge/🌐%20sourcescripts.com.br-0f0c29?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br)
+<br/>
+
+<a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_sourcescripts.com.br-1a2a6c?style=for-the-badge&logoColor=white&labelColor=0d1b4b" alt="SourceScripts"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 O que é a SourceScripts?
+
+Fundada e liderada por **Phelipe Melo**, a **SourceScripts** é uma loja especializada em **scripts e mods para MTA: San Andreas (Multi Theft Auto)** — um dos maiores servidores multiplayer de GTA: SA do Brasil.
+
+Cada produto é desenvolvido com foco em **qualidade, desempenho e experiência de jogo imersiva**, utilizando **Lua** como linguagem principal.
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Tecnologia por trás
+
+```lua
+SourceScripts = {
+  linguagem   = "Lua (MTA:SA)",
+  backend     = "Node.js + Python",
+  banco       = "MySQL / SQLite",
+  foco        = "Scripts de alto desempenho",
+  diferenciais= {
+    "Código otimizado",
+    "UI/UX customizada",
+    "Suporte dedicado",
+    "Atualizações contínuas"
+  }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| 🚀 Produto | 📋 Descrição |
+|---|---|
+| **Scripts de Gameplay** | Sistemas de missões, empregos, economia e progressão de personagem |
+| **Sistemas de Admin** | Painéis de administração completos com logs e gerenciamento |
+| **UIs Customizadas** | Interfaces modernas e responsivas para servidores MTA |
+| **Scripts de Veículos** | Garagem, tuning, concessionárias e sistemas de frota |
+| **Sistemas de Clan/Gang** | Territórios, guerras, ranking e gerenciamento de grupos |
+
+<br/>
+
+> *"Transformando servidores MTA em experiências únicas — um script de cada vez."*
+
+<br/>
+
+[![Visitar SourceScripts](https://img.shields.io/badge/🛒%20Ver%20produtos-1a2a6c?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br)
+[![YouTube SourceScripts](https://img.shields.io/badge/▶%20Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
 
