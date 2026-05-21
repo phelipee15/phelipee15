@@ -1,12 +1,12 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phelipe%20Melo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=Phelipe%20Melo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Badges de redes sociais -->
 <div align="center">
   <a href="https://br.linkedin.com/in/phelipe-melo-matos-a32295298" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://youtube.com/@phelipee15" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -17,7 +17,7 @@
   <a href="https://github.com/phelipee15" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+  <a href="https://discord.com/users/540257611686346772" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -52,14 +52,13 @@ phelipe = {
   <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
 </div>
 
-Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME-UFS)**, onde atuo no desenvolvimento de projetos que unem rigor matemático e aplicações práticas em tecnologia.
+Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME-UFS)**, onde atuo no desenvolvimento de projetos que unem rigor matemático e aplicações práticas em tecnologia e negócios.
 
-Atualmente estou elaborando um **mini curso de GitHub & Integração Git** para os novos membros selecionados, cobrindo:
+### 📱 Liga Jovem Sebrae 2025 — EcoRotaAju
+Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo mobile que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
 
-- 📌 Conceitos fundamentais de controle de versão
-- 🌿 Git Workflow (branches, merge, rebase)
-- 🤝 Colaboração via Pull Requests e Issues
-- 🔗 Integração contínua e boas práticas
+### 🗳️ Projeto TRE — Análise de Urnas Eletrônicas
+Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
 
 ---
 
@@ -74,19 +73,18 @@ Atualmente estou elaborando um **mini curso de GitHub & Integração Git** para 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Áreas de Foco
+### Áreas de Interesse
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend%20%2F%20APIs-0f0c29?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Automação](https://img.shields.io/badge/Automação-00B4D8?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jogos](https://img.shields.io/badge/Game%20Dev-000000?style=for-the-badge&logo=unity&logoColor=white)
+![MTA](https://img.shields.io/badge/MTA%3A_SA_Modding-E84142?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -95,8 +93,9 @@ Atualmente estou elaborando um **mini curso de GitHub & Integração Git** para 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipee15&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipee15&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipee15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipee15&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -124,7 +123,7 @@ Atualmente estou elaborando um **mini curso de GitHub & Integração Git** para 
 
 <div align="center">
 
-> CEO & Fundador da **[SourceScripts](https://sourcescripts.com.br)** — loja de scripts e soluções para desenvolvedores.
+> CEO & Fundador da **[SourceScripts](https://sourcescripts.com.br)** — loja especializada em **mods para MTA (Multi Theft Auto)**, trazendo soluções criativas e scripts de alta qualidade para uma nova experiência de jogo.
 
 [![SourceScripts](https://img.shields.io/badge/🌐%20sourcescripts.com.br-0f0c29?style=for-the-badge&logoColor=white)](https://sourcescripts.com.br)
 
@@ -134,5 +133,5 @@ Atualmente estou elaborando um **mini curso de GitHub & Integração Git** para 
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
 </div>
