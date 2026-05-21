@@ -36,11 +36,11 @@
 ```python
 phelipe = {
     "nome":       "Phelipe Melo Matos",
-    "localização":"Sergipe, Brasil 🇧🇷",
+    "localização":"Sergipe, Brasil",
     "formação":   "Universidade Federal de Sergipe (UFS)",
-    "papéis":     ["Developer", "CEO @ SourceScripts", "Membro LAME-UFS"],
-    "interesses": ["Data Science", "IA", "Backend", "Automação", "Jogos", "Banco de Dados"],
-    "status":     "Aprendendo sempre, construindo sempre 🚀"
+    "papéis":     ["Developer", "CEO @ SourceScripts", "Membro LAME"],
+    "interesses": ["Data Science", "IA", "Backend", "Automação", "Banco de Dados"],
+    "status":     "Em constante evolução"
 }
 ```
 
@@ -55,7 +55,7 @@ phelipe = {
 Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
 
 ### <img src="https://cdn.simpleicons.org/android/ffffff" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
-Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo mobile que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
+Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo móvel que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
 
 ### <img src="https://cdn.simpleicons.org/databricks/ffffff" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
 Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
@@ -115,10 +115,6 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="left" width="55%">
-
 ### Sobre a SourceScripts
 
 A **Source Scripts** é uma loja especializada no desenvolvimento e comercialização de **resources (mods) para MTA:SA**, consolidada no mercado pela qualidade técnica e compromisso com a comunidade.
@@ -127,8 +123,9 @@ Nossa principal marca é o **MDPM** — um resource amplamente adotado por servi
 
 Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **desempenho e inovação**, com foco em facilitar a gestão de servidores, valorizar a experiência dos jogadores e oferecer soluções confiáveis — transformando ideias em sistemas funcionais.
 
-</td>
-<td align="center" width="45%">
+<br/>
+
+</div>
 
 ### Tecnologia por trás
 
@@ -145,10 +142,6 @@ SourceScripts = {
 }
 ```
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 > *"Transformando ideias em realidade desde 2024."*
@@ -158,7 +151,7 @@ SourceScripts = {
 [![Visitar SourceScripts](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
 [![YouTube SourceScripts](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
-</div>
+
 
 ---
 
