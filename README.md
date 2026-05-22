@@ -90,6 +90,12 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 <br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=phelipee15&hide_border=true&background=0d1b4b&ring=5b86e5&fire=5b86e5&currStreakLabel=5b86e5&sideLabels=c9d1d9&dates=c9d1d9&stroke=3e5abb&sideNums=ffffff&currStreakNum=ffffff&locale=pt_BR" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
 <!-- Gráfico de atividade -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipee15&bg_color=0d1b4b&color=5b86e5&line=3e5abb&point=5b86e5&area=true&area_color=1a2a6c&hide_border=true" width="95%" alt="Gráfico de Contribuições"/>
