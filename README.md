@@ -134,7 +134,7 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
     </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
-      <sub><b>Backend</b></sub><br/>
+      <sub><b>API</b></sub><br/>
       <sub>Node.js</sub>
     </td>
     <td align="center" width="200">
