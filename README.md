@@ -91,15 +91,9 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-<br/>
-
-<!-- Gráfico de atividade -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipee15&bg_color=0d1b4b&color=5b86e5&line=3e5abb&point=5b86e5&area=true&area_color=1a2a6c&hide_border=true" width="95%" alt="Gráfico de Contribuições"/>
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="200" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/activity-graph-output/activity-graph.svg" height="400" alt="activity-graph graph"  />
 </div>
 
 <br/>
