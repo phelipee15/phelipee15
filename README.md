@@ -29,8 +29,6 @@
   <img src="https://komarev.com/ghpvc/?username=phelipee15&color=1a2a6c&style=flat-square&label=Visitantes+no+perfil" alt="Visitantes"/>
 </div>
 
----
-
 ## <img src="icons/hand_wave.svg" width="32" align="center"/> Sobre mim
 
 ```python
@@ -43,8 +41,6 @@ phelipe = {
     "status":     "Em constante evolução"
 }
 ```
-
----
 
 ## <img src="icons/lame.svg" width="32" align="center"/> Liga Acadêmica — LAME
 
@@ -59,8 +55,6 @@ Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em
 
 ### <img src="icons/folder.svg" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
 Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
-
----
 
 ## <img src="icons/developer.svg" width="32" align="center"/> Tecnologias & Ferramentas
 
@@ -84,8 +78,6 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 </div>
 
----
-
 ## <img src="icons/status.svg" width="32" align="center"/> Estatísticas do GitHub
 
 <br/>
@@ -103,15 +95,11 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
   <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
----
-
 ## <img src="icons/trophy.svg" width="32" align="center"/> Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&locale=pt_BR" alt="Troféus GitHub"/>
 </div>
-
----
 
 ## <img src="icons/sourcescripts.svg" width="24" align="center"/> SourceScripts
 
@@ -132,8 +120,6 @@ Nossa principal marca é o **MDPM** — um resource amplamente adotado por servi
 Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **desempenho e inovação**, com foco em facilitar a gestão de servidores, valorizar a experiência dos jogadores e oferecer soluções confiáveis — transformando ideias em sistemas funcionais.
 
 <br/>
-
----
 
 ### Tecnologia por trás
 
@@ -165,8 +151,6 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 </table>
 
 <br/>
-
----
 
 ### Nossos Valores
 
@@ -204,8 +188,6 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 [![YouTube SourceScripts](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
-
----
 
 <!-- Footer -->
 <div align="center">
