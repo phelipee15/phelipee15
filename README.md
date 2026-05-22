@@ -125,22 +125,67 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 
 <br/>
 
-</div>
+---
 
 ### Tecnologia por trás
 
-```lua
-SourceScripts = {
-    linguagem = "Lua (MTA:SA)",
-    backend   = "Node.js",
-    banco     = "MySQL / SQLite",
-    valores   = {
-        "Inovacao constante",
-        "Compromisso total",
-        "Identidade propria"
-    }
-}
-```
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=lua" width="48"/><br/>
+      <sub><b>Linguagem Principal</b></sub><br/>
+      <sub>Lua (MTA:SA)</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+      <sub><b>Backend</b></sub><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+      <sub><b>Banco de Dados</b></sub><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
+      <sub><b>Banco de Dados</b></sub><br/>
+      <sub>SQLite</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### Nossos Valores
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/⚡-1a2a6c?style=flat-square&logoColor=white" width="0" height="0"/>
+      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png"/><br/><br/>
+      <b>Inovação</b><br/>
+      <sub>Evoluindo constantemente novas ideias, soluções e tecnologias.</sub>
+    </td>
+    <td width="32"></td>
+    <td align="center" width="220">
+      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png"/><br/><br/>
+      <b>Compromisso</b><br/>
+      <sub>Dedicação total à satisfação dos nossos clientes e qualidade dos produtos.</sub>
+    </td>
+    <td width="32"></td>
+    <td align="center" width="220">
+      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bullseye/3D/bullseye_3d.png"/><br/><br/>
+      <b>Identidade</b><br/>
+      <sub>Soluções próprias, com identidade visual e única.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -151,7 +196,7 @@ SourceScripts = {
 [![Visitar SourceScripts](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
 [![YouTube SourceScripts](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
-
+</div>
 
 ---
 
