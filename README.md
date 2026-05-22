@@ -105,7 +105,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## <img src="https://cdn.simpleicons.org/lua/ffffff" width="24" align="center"/> SourceScripts
+## <img src="icons/sourcescripts.png" width="24" align="center"/> SourceScripts
 
 <div align="center">
 
