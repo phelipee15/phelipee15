@@ -105,11 +105,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 <!-- Cobrinha -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake.svg"/>
-    <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake-dark.svg" width="95%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
