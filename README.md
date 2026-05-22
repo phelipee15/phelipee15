@@ -91,6 +91,13 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=phelipee15&hide_border=true&background=0d1b4b&ring=5b86e5&fire=5b86e5&currStreakLabel=5b86e5&sideLabels=c9d1d9&dates=c9d1d9&stroke=3e5abb&sideNums=ffffff&currStreakNum=ffffff&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
