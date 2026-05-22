@@ -46,7 +46,7 @@ phelipe = {
 
 ---
 
-## <img src="icons/lame.png" width="32" align="center"/> Liga Acadêmica — LAME
+## <img src="icons/lame.svg" width="32" align="center"/> Liga Acadêmica — LAME
 
 <div align="left">
   <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
