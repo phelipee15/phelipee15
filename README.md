@@ -95,6 +95,17 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phelipee15&bg_color=0d1b4b&color=5b86e5&line=3e5abb&point=5b86e5&area=true&area_color=1a2a6c&hide_border=true" width="95%" alt="Gráfico de Contribuições"/>
 </div>
 
+<br/>
+
+<!-- Cobrinha -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake.svg"/>
+    <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/phelipee15/phelipee15/output/github-snake-dark.svg" width="95%"/>
+  </picture>
+</div>
+
 ---
 
 ## <img src="icons/trophy.svg" width="32" align="center"/> Troféus GitHub
@@ -167,7 +178,6 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/⚡-1a2a6c?style=flat-square&logoColor=white" width="0" height="0"/>
       <img width="64" src="icons/lightning.svg"/><br/><br/>
       <b>Inovação</b><br/>
       <sub>Evoluindo constantemente novas ideias, soluções e tecnologias.</sub>
