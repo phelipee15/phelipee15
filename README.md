@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="28" align="center"/> Sobre mim
+## <img src="icons/hand_wave.svg" width="32" align="center"/> Sobre mim
 
 ```python
 phelipe = {
@@ -46,7 +46,7 @@ phelipe = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/academia/ffffff" width="24" align="center"/> Liga Acadêmica — LAME
+## <img src="icons/lame.png" width="32" align="center"/> Liga Acadêmica — LAME
 
 <div align="left">
   <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
@@ -54,15 +54,15 @@ phelipe = {
 
 Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
 
-### <img src="https://cdn.simpleicons.org/android/ffffff" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
+### <img src="icons/android.svg" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
 Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em sustentabilidade urbana. Criamos o **EcoRotaAju**, um aplicativo móvel que permite aos usuários localizar pontos de descarte correto de **lixo eletrônico** em Aracaju, promovendo consciência ambiental e logística reversa acessível.
 
-### <img src="https://cdn.simpleicons.org/databricks/ffffff" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
+### <img src="icons/folder.svg" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
 Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
 
 ---
 
-## <img src="https://cdn.simpleicons.org/htmx/ffffff" width="24" align="center"/> Tecnologias & Ferramentas
+## <img src="icons/developer.svg" width="32" align="center"/> Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="24" align="center"/> Estatísticas do GitHub
+## <img src="icons/status.svg" width="32" align="center"/> Estatísticas do GitHub
 
 <br/>
 
@@ -97,7 +97,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="24" align="center"/> Troféus GitHub
+## <img src="icons/trophy.svg" width="32" align="center"/> Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&locale=pt_BR" alt="Troféus GitHub"/>
@@ -105,7 +105,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 
 ---
 
-## <img src="icons/sourcescripts.png" width="24" align="center"/> SourceScripts
+## <img src="icons/sourcescripts.svg" width="24" align="center"/> SourceScripts
 
 <div align="center">
 
@@ -168,19 +168,19 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
   <tr>
     <td align="center" width="220">
       <img src="https://img.shields.io/badge/⚡-1a2a6c?style=flat-square&logoColor=white" width="0" height="0"/>
-      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png"/><br/><br/>
+      <img width="64" src="icons/lightning.svg"/><br/><br/>
       <b>Inovação</b><br/>
       <sub>Evoluindo constantemente novas ideias, soluções e tecnologias.</sub>
     </td>
     <td width="32"></td>
     <td align="center" width="220">
-      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png"/><br/><br/>
+      <img width="64" src="icons/heart.svg"/><br/><br/>
       <b>Compromisso</b><br/>
       <sub>Dedicação total à satisfação dos nossos clientes e qualidade dos produtos.</sub>
     </td>
     <td width="32"></td>
     <td align="center" width="220">
-      <img width="64" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bullseye/3D/bullseye_3d.png"/><br/><br/>
+      <img width="64" src="icons/target.svg"/><br/><br/>
       <b>Identidade</b><br/>
       <sub>Soluções próprias, com identidade visual e única.</sub>
     </td>
