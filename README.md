@@ -56,6 +56,12 @@ Projeto desenvolvido como parte do **desafio proposto pelo Sebrae**, com foco em
 ### <img src="icons/folder.svg" width="20" align="center"/> Projeto TRE — Análise de Urnas Eletrônicas
 Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitoral (TRE)**. Realizamos um estudo aprofundado das **sessões eleitorais e modelos de urnas eletrônicas**, aplicando técnicas de análise de dados para identificar urnas críticas e apoiar decisões de manutenção e logística eleitoral.
 
+<div align="center">
+  <a href="https://sites.google.com/mat.ufs.br/lame" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Site%20da%20LAME-302b63?style=for-the-badge&logo=googlesites&logoColor=white" alt="Site LAME"/>
+  </a>
+</div>
+
 ## <img src="icons/developer.svg" width="32" align="center"/> Tecnologias & Ferramentas
 
 <div align="center">
@@ -83,16 +89,16 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="200" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/activity-graph-output/activity-graph.svg" height="400" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/stats-output/stats.svg" height="200" alt="stats graph"/>
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/languages-output/languages.svg" height="200" alt="languages graph"/>
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/activity-graph-output/activity-graph.svg" height="400" alt="activity-graph graph"/>
 </div>
 
 <br/>
 
 <!-- Cobrinha -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
 </div>
 
 ## <img src="icons/trophy.svg" width="32" align="center"/> Troféus GitHub
@@ -106,7 +112,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <div align="center">
 
 <a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌐_sourcescripts.com.br-1a2a6c?style=for-the-badge&logoColor=white&labelColor=0d1b4b" alt="SourceScripts"/>
+  <img src="https://img.shields.io/badge/sourcescripts.com.br-1a2a6c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1b4b" alt="SourceScripts"/>
 </a>
 
 <br/><br/>
@@ -123,32 +129,7 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 
 ### Tecnologia por trás
 
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=lua" width="48"/><br/>
-      <sub><b>Linguagem Principal</b></sub><br/>
-      <sub>Lua (MTA:SA)</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
-      <sub><b>API</b></sub><br/>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
-      <sub><b>Banco de Dados</b></sub><br/>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
-      <sub><b>Banco de Dados</b></sub><br/>
-      <sub>SQLite</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=lua,nodejs,mysql,sqlite" />
 
 <br/>
 
@@ -156,27 +137,9 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <img width="64" src="icons/lightning.svg"/><br/><br/>
-      <b>Inovação</b><br/>
-      <sub>Evoluindo constantemente novas ideias, soluções e tecnologias.</sub>
-    </td>
-    <td width="32"></td>
-    <td align="center" width="220">
-      <img width="64" src="icons/heart.svg"/><br/><br/>
-      <b>Compromisso</b><br/>
-      <sub>Dedicação total à satisfação dos nossos clientes e qualidade dos produtos.</sub>
-    </td>
-    <td width="32"></td>
-    <td align="center" width="220">
-      <img width="64" src="icons/target.svg"/><br/><br/>
-      <b>Identidade</b><br/>
-      <sub>Soluções próprias, com identidade visual e única.</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="valores.svg" alt="Nossos Valores — Inovação, Compromisso, Identidade" width="760"/>
+</div>
 
 <br/>
 
@@ -184,8 +147,8 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 
 <br/>
 
-[![Visitar SourceScripts](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
-[![YouTube SourceScripts](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
+[![Ver produtos](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
+[![Demonstrações](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
 
