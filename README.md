@@ -101,12 +101,6 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
   <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
 </div>
 
-## <img src="icons/trophy.svg" width="32" align="center"/> Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phelipee15&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&locale=pt_BR" alt="Troféus GitHub"/>
-</div>
-
 ## <img src="icons/sourcescripts.svg" width="24" align="center"/> SourceScripts
 
 <div align="center">
