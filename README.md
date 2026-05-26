@@ -36,10 +36,6 @@ phelipe = {
 
 ## <img src="icons/lame.svg" width="32" align="center"/> Liga Acadêmica — LAME
 
-<div align="left">
-  <img align="right" src="https://img.shields.io/badge/UFS-Liga%20Acadêmica-302b63?style=for-the-badge&logoColor=white" alt="LAME-UFS"/>
-</div>
-
 Faço parte da **Liga Acadêmica de Matemática e Empresa da UFS (LAME)**, onde atuo no desenvolvimento de projetos que unem matemática, com aplicações práticas em tecnologia e negócios.
 
 ### <img src="icons/android.svg" width="20" align="center"/> Liga Jovem Sebrae 2025 — EcoRotaAju
