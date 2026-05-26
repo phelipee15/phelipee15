@@ -5,21 +5,13 @@
 
 <!-- Badges de redes sociais -->
 <div align="center">
-  <a href="https://br.linkedin.com/in/phelipe-melo-matos-a32295298" target="_blank" rel="noopener noreferrer">
-    <img src="icons/linkedin.svg" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://youtube.com/@phelipee15" target="_blank" rel="noopener noreferrer">
-    <img src="icons/youtube.svg" height="30" alt="YouTube"/>
-  </a>
-  <a href="mailto:phelipemelomatos@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="icons/gmail.svg" height="30" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/phelipee15" target="_blank" rel="noopener noreferrer">
-    <img src="icons/github.svg" height="30" alt="GitHub"/>
-  </a>
-  <a href="https://discord.com/users/540257611686346772" target="_blank" rel="noopener noreferrer">
-    <img src="icons/discord.svg" height="30" alt="Discord"/>
-  </a>
+
+[<img src="icons/linkedin.svg" height="30" alt="LinkedIn"/>](https://br.linkedin.com/in/phelipe-melo-matos-a32295298)
+[<img src="icons/youtube.svg" height="30" alt="YouTube"/>](https://youtube.com/@phelipee15)
+[<img src="icons/gmail.svg" height="30" alt="Gmail"/>](mailto:phelipemelomatos@gmail.com)
+[<img src="icons/github.svg" height="30" alt="GitHub"/>](https://github.com/phelipee15)
+[<img src="icons/discord.svg" height="30" alt="Discord"/>](https://discord.com/users/540257611686346772)
+
 </div>
 
 <br/>
