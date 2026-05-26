@@ -6,19 +6,19 @@
 <!-- Badges de redes sociais -->
 <div align="center">
   <a href="https://br.linkedin.com/in/phelipe-melo-matos-a32295298" target="_blank" rel="noopener noreferrer">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="icons/linkedin.svg" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://youtube.com/@phelipee15" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="icons/youtube.svg" height="30" alt="YouTube"/>
   </a>
   <a href="mailto:phelipemelomatos@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="icons/gmail.svg" height="30" alt="Gmail"/>
   </a>
   <a href="https://github.com/phelipee15" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="icons/github.svg" height="30" alt="GitHub"/>
   </a>
   <a href="https://discord.com/users/540257611686346772" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="icons/discord.svg" height="30" alt="Discord"/>
   </a>
 </div>
 
