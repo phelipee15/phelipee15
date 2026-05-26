@@ -138,7 +138,7 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 <br/>
 
 <div align="center">
-  <img src="icons/valores.svg" alt="Nossos Valores — Inovação, Compromisso, Identidade" width="800"/>
+  <img src="icons/valores.svg" alt="Nossos Valores — Inovação, Compromisso, Identidade" width="780"/>
 </div>
 
 <br/>
