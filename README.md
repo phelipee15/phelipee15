@@ -58,17 +58,17 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <img src="https://skillicons.dev/icons?i=python,js,lua,c,nodejs" />
 
 ### Áreas de Interesse
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20%2F%20APIs-0f0c29?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automação](https://img.shields.io/badge/Automação-00B4D8?style=for-the-badge&logo=githubactions&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MTA](https://img.shields.io/badge/MTA%3A_SA_Modding-E84142?style=for-the-badge&logo=lua&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-1a2a6c?style=for-the-badge&logo=databricks&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-1a2a6c?style=for-the-badge&logo=openai&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20%2F%20APIs-1a2a6c?style=for-the-badge&logo=fastapi&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-1a2a6c?style=for-the-badge&logo=githubactions&logoColor=white)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-1a2a6c?style=for-the-badge&logo=postgresql&logoColor=white)
+![MTA](https://img.shields.io/badge/MTA%3A_SA_Modding-1a2a6c?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
 <br/><br/>
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla"/>
+<img src="https://img.shields.io/badge/FileZilla-1a2a6c?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla"/>
 
 </div>
 
@@ -94,7 +94,7 @@ Projeto de análise de dados em colaboração com o **Tribunal Regional Eleitora
 <div align="center">
 
 <a href="https://sourcescripts.com.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/sourcescripts.com.br-1a2a6c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1b4b" alt="SourceScripts"/>
+  <img src="https://img.shields.io/badge/sourcescripts.com.br-1a2a6c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a2a6c" alt="SourceScripts"/>
 </a>
 
 <br/><br/>
@@ -130,7 +130,7 @@ Nossa missão é desenvolver resources de alta qualidade para MTA:SA, aliando **
 <br/>
 
 [![Ver produtos](https://img.shields.io/badge/Ver%20produtos-1a2a6c?style=for-the-badge&logo=cart&logoColor=white)](https://sourcescripts.com.br/shop)
-[![Demonstrações](https://img.shields.io/badge/Demonstrações-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
+[![Demonstrações](https://img.shields.io/badge/Demonstrações-1a2a6c?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phelipee15)
 
 </div>
 
