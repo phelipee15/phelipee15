@@ -27,9 +27,9 @@
 phelipe = {
     "nome":       "Phelipe Melo Matos",
     "localização":"Sergipe, Brasil",
-    "formação":   "Universidade Federal de Sergipe (UFS)",
-    "papéis":     ["Developer", "CEO @ SourceScripts", "Membro LAME"],
-    "interesses": ["Data Science", "IA", "Backend", "Automação", "Banco de Dados"],
+    "formação":   "Graduando de Matemática Aplicada e Computacional na Universidade Federal de Sergipe (UFS)",
+    "papéis":     ["Desenvolvedor", "CEO @ SourceScripts", "Membro LAME"],
+    "interesses": ["Ciência de Dados", "IA", "Backend", "Automação", "Banco de Dados"],
     "status":     "Em constante evolução"
 }
 ```
